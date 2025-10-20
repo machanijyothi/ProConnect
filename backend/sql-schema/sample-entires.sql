@@ -117,3 +117,7 @@ INSERT INTO PROJECT_COLLABORATORS (PROJECT_ID, USER_ID, ROLE) VALUES
 (3, 3, 'Frontend Developer'),
 (5, 3, 'Full Stack Developer'),
 (5, 1, 'Backend Consultant');
+
+INSERT INTO PROJECT_COLLABORATORS (PROJECT_ID, USER_ID, ROLE) VALUES
+(10, 20, 'Manager');
+
